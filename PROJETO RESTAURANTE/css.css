@@ -1,0 +1,34 @@
+/* class */
+.centro{
+    text-align: center;
+}
+
+.restaurante{
+    font-style:normal;
+}
+
+.alinhar{
+    text-align: center;
+}
+
+.bold{
+    font-size: 14pt;
+    font-family: raleway;
+    font-weight: 400;
+}
+
+
+/* id */
+#logo-restaurante {
+    position: absolute;
+    left: 10px;
+    top: 60px;
+ }
+
+ /* normal */
+body{
+    background-color: rgb(170, 170, 160);
+}
+h1{
+    text-align: center;
+}  
